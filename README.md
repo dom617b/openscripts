@@ -1,3 +1,3 @@
 # openscripts
 
-Open scripts built as utilitie
+Open scripts built as utilities
